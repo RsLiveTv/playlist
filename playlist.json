@@ -1,10 +1,18 @@
 [
-  {
-    "name": "Sports",
-    "http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8": "a"
-  },
-  {
-    "name": "Video",
-    "http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8": "r"
-  }
+    {
+        "name": "Channel 1",
+        "url": "http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Channel 2",
+        "url": "http://103.175.242.10:8080/27-Gtv/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Channel 3",
+        "url": "http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8"
+    },
+    {
+        "name": "Channel 4",
+        "url": "http://103.175.242.10:8080/27-Gtv/tracks-v1a1/mono.m3u8"
+    }
 ] 
